@@ -2,6 +2,8 @@
 
 👋  Hello There
 
+![username](images/username.png)
+
 ```js
 const profile = {
     firstName: 'Edoardo',
