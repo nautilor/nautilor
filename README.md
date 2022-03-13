@@ -14,7 +14,7 @@ const profile = {
     languages: ['Python', 'Java', 'JS', 'Bash', 'TS', "C#"],
     frameworks: ['React', 'SpringBoot'],
     container: ['Docker', 'Kubernetes'],
-    databases: ['MongoDB', 'MySQWL', 'PostgreSQL'],
+    databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
     editors: ['nvim', 'VSCode', 'IntelliJ'],
     fullstack: true,
     learning: ['Rust'],
