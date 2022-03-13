@@ -10,7 +10,7 @@ const profile = {
     lastName: 'Zerbo',
     telegram: 'https://t.me/WMD_Edoardo',
     linkedin: 'https://www.linkedin.com/in/edoardo-zerbo-551b93190/',
-    prefered_os: 'Linux',
+    preferred_os: 'Linux',
     languages: ['Python', 'Java', 'JS', 'Bash', 'TS', "C#"],
     frameworks: ['React', 'SpringBoot'],
     container: ['Docker', 'Kubernetes'],
